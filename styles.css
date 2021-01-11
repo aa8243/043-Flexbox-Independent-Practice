@@ -1,0 +1,28 @@
+.menu1 {
+    display: flex;
+    Justify-content: space-around;
+    background-color: darkgreen;
+        padding: 10px;
+    border-bottom: 1px solid green;
+
+}
+.menu1 div {
+    padding:5px;
+   color:white;
+    background-color:cyan;
+    margin: 10px;
+}
+.menu2 { 
+    display: flex;
+        justify-content: space-around;
+    background-color: cyan;
+    padding: 10px;
+        border-bottom:1px blue;
+}
+.menu2 {
+    background-image:
+    url("https://www.vectorstock.com/royalty-free-vector/abstract-background-color-festival-template-vector-16897826");
+    background-color: darkgreen;
+    
+}
+    
